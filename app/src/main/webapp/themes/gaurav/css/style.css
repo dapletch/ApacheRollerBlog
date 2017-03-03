@@ -160,7 +160,7 @@ span.setup {
   float: right;
 }
 #searchForm #search-btn {
-  color: #428bca;
+  color: #003300;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
@@ -171,11 +171,11 @@ span.setup {
 }
 #searchForm #search-btn:hover,
 #searchForm #search-btn:focus {
-  color: #428bca;
+  color: #008000;
   outline: none;
 }
 #searchForm .form-control {
-  background: #646464;
+  background: #ffffff;
   width: 210px;
   border: 1px solid #363636;
   color: #000000;
@@ -201,5 +201,6 @@ span.setup {
 .dropdown-menu > li.selected {
   color: #ffffff;
   text-decoration: none;
-  background-color: #428bca;
+  /* background-color: #428bca; */
+    background-color: #008000;
 }
