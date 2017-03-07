@@ -1,0 +1,2 @@
+# ApacheRollerBlog
+This is the blog management system that I will be using in conjunction with Pletcher Web Design. This blog was derived from the source version of Apache Roller available from the following link: http://mirror.olnevhost.net/pub/apache/roller/roller-5.1/v5.1.2/. I have decided instead of making a custom template I will manipulate guarav (bootstrap) template to give a similar look and feel to Pletcher Web Design.
