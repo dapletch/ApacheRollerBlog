@@ -324,13 +324,13 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #003300;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #008000;
   text-decoration: underline;
 }
 
@@ -481,7 +481,8 @@ h6 small,
 .h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #999999;
+  color: #008800;
+  font-style: italic;
 }
 
 h1,
@@ -546,9 +547,12 @@ h4 small,
 }
 
 .page-header {
+  padding-top: 25px;
   padding-bottom: 9px;
   margin: 40px 0 20px;
   border-bottom: 1px solid #eeeeee;
+  color: #003300;
+  font-weight: 900;
 }
 
 ul,
@@ -2080,8 +2084,8 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #003300;
+  border-color: #003300;
 }
 
 .btn-primary:hover,
@@ -2090,8 +2094,8 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #3276b1;
-  border-color: #285e8e;
+  background-color: #004F00;
+  border-color: #004F00;
 }
 
 .btn-primary:active,
@@ -5452,13 +5456,13 @@ a.list-group-item:focus {
 }
 
 .panel-primary {
-  border-color: #428bca;
+  border-color: #003300;
 }
 
 .panel-primary > .panel-heading {
   color: #ffffff;
-  background-color: #428bca;
-  border-color: #428bca;
+  background-color: #003300;
+  border-color: #003300;
 }
 
 .panel-primary > .panel-heading + .panel-collapse .panel-body {

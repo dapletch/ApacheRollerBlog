@@ -114,10 +114,11 @@ h3,
 #main_content h3.entryTitle a:link,
 #main_content h3.entryTitle a:active,
 #main_content h3.entryTitle a:visited {
-    color:#CC0000;
+    color:#008800;
     font-size:120%;
     text-decoration: none;
     margin: 1em 0 0.5em 0;
+    font-weight: 800;
 }
 
 h4 {
@@ -151,8 +152,18 @@ span.setup {
     line-height: 2em;
 }
 
-.entryTitle {font-weight:normal;color:#428bca}
-.comment-details{font-size:13px;}
+h2.entryTitle {
+    color: #003300;
+    font-weight: 600;
+}
+
+.entryTitle {
+    font-weight: normal;
+    color: #003300;
+}
+.comment-details {
+    font-size:13px;
+}
 
 #searchForm {
   margin: 0 15px;
